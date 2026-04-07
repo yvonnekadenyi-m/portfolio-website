@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects and skills as a Full-Stack Software Engineer.
 
-🌐 **Live Site:** https://portfolio-website-grkj1nhop-yvonne-kadenyis-projects.vercel.app/
+🌐 **Live Site:** https://portfolio-website-kohl-kappa-58.vercel.app
 
 ## About
 
